@@ -6,4 +6,4 @@ Primeiro desafio de JavaScript, criando um contador usando o JavaScript para faz
 
 ## 🚀 Let's code! 🚀
 
-[Página ativa do Desafio]()
+[Página ativa do Desafio](https://gustavoferreiradeveloper.github.io/contador.javascript/)
